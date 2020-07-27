@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "641430712726",
+    "firebase_url": "https://codefreaks-chat.firebaseio.com",
+    "project_id": "codefreaks-chat",
+    "storage_bucket": "codefreaks-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641430712726:android:ee4cb69c2a3fc3dce2adb7",
+        "android_client_info": {
+          "package_name": "com.example.codefreakschatmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641430712726-3p4nqn2l5u8ukb2sl6kjine186hrvq0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfjak8Z_ORRxXV_z9ESzIhya2ClfbipRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641430712726-3p4nqn2l5u8ukb2sl6kjine186hrvq0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
