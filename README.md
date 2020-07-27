@@ -10,6 +10,11 @@ The UI design as well as all the drwable files are no subject to copyright for C
 
 I have deleted the Json file for firebase database so you have to download the jSon file by creating your own firebase database and hence allowing the sign up method of email and password from firebase authentication.
 
+Key featuresof the following projects are:
+-> Pushing live notifications in the background when message is recieved.
+-> Online/Offline status
+-> Direct links to social media accounts under users profile on button clicks. 
+
 I request you to only download the source coode in src directory with extensions .xml and .java files. Downloading the complete project sometimes lead to errors and file disabilities in android studio IDE. hence,downloading the source codes and placing them in your own project will be the best way. Dont forget to download the gradle files i have uploaded,for dependencies. Or an active internet connection will make the android studio bring them automatically to your project,reading the source codes. Dont forget to get the drawables too. That's it developer,you are good to go!!
 
 
